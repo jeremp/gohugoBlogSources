@@ -1,22 +1,12 @@
 baseurl = "https://jeremp.github.io/"
 languageCode = "fr"
 title = "Jeremy Passeron"
-# Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
+theme = "purehugo"
+Paginate = 10
 
 [params]
-  description = "Java/web/Iot/Connected-Health developp3r"
-  cover = "images/cover.jpg"
-  author = "Jeremy Passeron"
-  authorlocation = "Sophia Antipolis, France"
-  authorwebsite = "https://about.me/jeremp"
-  bio= ""
-  logo = "img/avatar.png"
-  googleAnalyticsUserID = "UA-68415224-1"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  #RSSLink = "http://feeds.feedburner.com/..." 
-  githubName = "jeremp"
-  twitterName = "jeremp"
-  # facebookName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  twitterName = "dragos_plesca"
+  githubName = "dplesca"
+  description = "Java/Web/Iot Develop3r"
+  google_analytics = "UA-68415224-1"
+ 
