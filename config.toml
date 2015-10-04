@@ -5,8 +5,8 @@ theme = "purehugo"
 Paginate = 10
 
 [params]
-  twitterName = "dragos_plesca"
-  githubName = "dplesca"
+  twitterName = "jeremp"
+  githubName = "jeremp"
   description = "Java/Web/Iot Develop3r"
   google_analytics = "UA-68415224-1"
  
